@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-09-10T18:03:28+08:00",
+  "exported_at": "2026-09-10T23:10:52+08:00",
   "lexicon_version": "v1.6",
   "run": {
     "id": 1,
@@ -29,6 +29,22 @@
       "label": "开盘前",
       "run_clock": "09:00",
       "desc": "昨 17:00 → 今 09:00"
+    },
+    "index": {
+      "as_of": "2026-09-09",
+      "stale": true,
+      "error": null,
+      "official_n": null,
+      "n_weights": 95,
+      "weight_sum": 99.96,
+      "weight_sum_used": 48.26,
+      "coverage_pct": 48.3,
+      "n_weighted": 26,
+      "weighted_score": 4.6,
+      "hsi_bar_score": -0.2,
+      "hsi_bar_thin": false,
+      "index_score": 2.2,
+      "method": "avg_weighted_hsi_bar"
     }
   },
   "scores": [
@@ -48,7 +64,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "00857.HK"
+      "display_code": "00857.HK",
+      "weight_pct": 1.3
     },
     {
       "id": 648,
@@ -66,7 +83,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "01088.HK"
+      "display_code": "01088.HK",
+      "weight_pct": 0.89
     },
     {
       "id": 651,
@@ -84,7 +102,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "00883.HK"
+      "display_code": "00883.HK",
+      "weight_pct": 2.37
     },
     {
       "id": 653,
@@ -102,7 +121,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "00300.HK"
+      "display_code": "00300.HK",
+      "weight_pct": 0.36
     },
     {
       "id": 654,
@@ -120,7 +140,8 @@
       "diverge": true,
       "method": "diverge_no_blend",
       "thin": false,
-      "display_code": "00981.HK"
+      "display_code": "00981.HK",
+      "weight_pct": 1.73
     },
     {
       "id": 655,
@@ -138,7 +159,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "09888.HK"
+      "display_code": "09888.HK",
+      "weight_pct": 0.85
     },
     {
       "id": 656,
@@ -156,7 +178,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "02318.HK"
+      "display_code": "02318.HK",
+      "weight_pct": 2.19
     },
     {
       "id": 657,
@@ -174,7 +197,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "02338.HK"
+      "display_code": "02338.HK",
+      "weight_pct": 0.39
     },
     {
       "id": 658,
@@ -192,7 +216,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "01398.HK"
+      "display_code": "01398.HK",
+      "weight_pct": 3.67
     },
     {
       "id": 659,
@@ -210,7 +235,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "02899.HK"
+      "display_code": "02899.HK",
+      "weight_pct": 1.33
     },
     {
       "id": 660,
@@ -228,7 +254,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "01024.HK"
+      "display_code": "01024.HK",
+      "weight_pct": 0.58
     },
     {
       "id": 661,
@@ -246,7 +273,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "00700.HK"
+      "display_code": "00700.HK",
+      "weight_pct": 7.89
     },
     {
       "id": 662,
@@ -264,7 +292,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "00388.HK"
+      "display_code": "00388.HK",
+      "weight_pct": 2.85
     },
     {
       "id": 663,
@@ -282,7 +311,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "03993.HK"
+      "display_code": "03993.HK",
+      "weight_pct": 0.39
     },
     {
       "id": 664,
@@ -300,7 +330,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "03750.HK"
+      "display_code": "03750.HK",
+      "weight_pct": 0.69
     },
     {
       "id": 665,
@@ -318,7 +349,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "09992.HK"
+      "display_code": "09992.HK",
+      "weight_pct": 0.67
     },
     {
       "id": 666,
@@ -336,7 +368,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "02628.HK"
+      "display_code": "02628.HK",
+      "weight_pct": 1.29
     },
     {
       "id": 667,
@@ -354,7 +387,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "03968.HK"
+      "display_code": "03968.HK",
+      "weight_pct": 1.19
     },
     {
       "id": 668,
@@ -372,7 +406,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "01810.HK"
+      "display_code": "01810.HK",
+      "weight_pct": 2.81
     },
     {
       "id": 669,
@@ -390,7 +425,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "02359.HK"
+      "display_code": "02359.HK",
+      "weight_pct": 0.53
     },
     {
       "id": 670,
@@ -408,7 +444,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "02015.HK"
+      "display_code": "02015.HK",
+      "weight_pct": 0.38
     },
     {
       "id": 671,
@@ -426,7 +463,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "00175.HK"
+      "display_code": "00175.HK",
+      "weight_pct": 0.63
     },
     {
       "id": 672,
@@ -444,7 +482,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "09618.HK"
+      "display_code": "09618.HK",
+      "weight_pct": 0.97
     },
     {
       "id": 701,
@@ -480,7 +519,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "01211.HK"
+      "display_code": "01211.HK",
+      "weight_pct": 1.78
     },
     {
       "id": 704,
@@ -498,7 +538,8 @@
       "diverge": true,
       "method": "diverge_no_blend",
       "thin": false,
-      "display_code": "03690.HK"
+      "display_code": "03690.HK",
+      "weight_pct": 2.55
     },
     {
       "id": 705,
@@ -516,7 +557,8 @@
       "diverge": false,
       "method": "weighted_mean",
       "thin": false,
-      "display_code": "09988.HK"
+      "display_code": "09988.HK",
+      "weight_pct": 7.98
     },
     {
       "id": 639,
@@ -534,7 +576,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "00941.HK"
+      "display_code": "00941.HK",
+      "weight_pct": 2.9
     },
     {
       "id": 640,
@@ -552,7 +595,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "01347.HK"
+      "display_code": "01347.HK",
+      "weight_pct": 0.53
     },
     {
       "id": 641,
@@ -570,7 +614,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "00386.HK"
+      "display_code": "00386.HK",
+      "weight_pct": 0.66
     },
     {
       "id": 642,
@@ -588,7 +633,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "02331.HK"
+      "display_code": "02331.HK",
+      "weight_pct": 0.18
     },
     {
       "id": 643,
@@ -606,7 +652,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "00669.HK"
+      "display_code": "00669.HK",
+      "weight_pct": 1.14
     },
     {
       "id": 644,
@@ -624,7 +671,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "02600.HK"
+      "display_code": "02600.HK",
+      "weight_pct": 0.2
     },
     {
       "id": 646,
@@ -642,7 +690,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "01519.HK"
+      "display_code": "01519.HK",
+      "weight_pct": 0.38
     },
     {
       "id": 647,
@@ -660,7 +709,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "00267.HK"
+      "display_code": "00267.HK",
+      "weight_pct": 0.47
     },
     {
       "id": 649,
@@ -678,7 +728,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "09999.HK"
+      "display_code": "09999.HK",
+      "weight_pct": 1.9
     },
     {
       "id": 650,
@@ -696,7 +747,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "00939.HK"
+      "display_code": "00939.HK",
+      "weight_pct": 5.45
     },
     {
       "id": 652,
@@ -714,7 +766,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "03988.HK"
+      "display_code": "03988.HK",
+      "weight_pct": 2.48
     },
     {
       "id": 673,
@@ -732,7 +785,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "06160.HK"
+      "display_code": "06160.HK",
+      "weight_pct": 1.49
     },
     {
       "id": 674,
@@ -750,7 +804,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "06690.HK"
+      "display_code": "06690.HK",
+      "weight_pct": 0.3
     },
     {
       "id": 675,
@@ -768,7 +823,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "00960.HK"
+      "display_code": "00960.HK",
+      "weight_pct": 0.09
     },
     {
       "id": 676,
@@ -786,7 +842,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "00291.HK"
+      "display_code": "00291.HK",
+      "weight_pct": 0.18
     },
     {
       "id": 677,
@@ -804,7 +861,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "02618.HK"
+      "display_code": "02618.HK",
+      "weight_pct": 0.17
     },
     {
       "id": 678,
@@ -822,7 +880,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "06181.HK"
+      "display_code": "06181.HK",
+      "weight_pct": 0.15
     },
     {
       "id": 679,
@@ -840,7 +899,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "01093.HK"
+      "display_code": "01093.HK",
+      "weight_pct": 0.43
     },
     {
       "id": 680,
@@ -858,7 +918,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "02020.HK"
+      "display_code": "02020.HK",
+      "weight_pct": 0.61
     },
     {
       "id": 681,
@@ -876,7 +937,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "01109.HK"
+      "display_code": "01109.HK",
+      "weight_pct": 0.57
     },
     {
       "id": 682,
@@ -894,7 +956,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "00241.HK"
+      "display_code": "00241.HK",
+      "weight_pct": 0.12
     },
     {
       "id": 683,
@@ -912,7 +975,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "01299.HK"
+      "display_code": "01299.HK",
+      "weight_pct": 4.7
     },
     {
       "id": 684,
@@ -930,7 +994,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "00762.HK"
+      "display_code": "00762.HK",
+      "weight_pct": 0.21
     },
     {
       "id": 685,
@@ -948,7 +1013,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "01177.HK"
+      "display_code": "01177.HK",
+      "weight_pct": 0.34
     },
     {
       "id": 686,
@@ -966,7 +1032,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "00728.HK"
+      "display_code": "00728.HK",
+      "weight_pct": 0.35
     },
     {
       "id": 687,
@@ -984,7 +1051,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "06862.HK"
+      "display_code": "06862.HK",
+      "weight_pct": 0.12
     },
     {
       "id": 688,
@@ -1002,7 +1070,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "01801.HK"
+      "display_code": "01801.HK",
+      "weight_pct": 0.96
     },
     {
       "id": 689,
@@ -1020,7 +1089,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "02319.HK"
+      "display_code": "02319.HK",
+      "weight_pct": 0.33
     },
     {
       "id": 690,
@@ -1038,7 +1108,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "01378.HK"
+      "display_code": "01378.HK",
+      "weight_pct": 0.5
     },
     {
       "id": 691,
@@ -1056,7 +1127,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "09961.HK"
+      "display_code": "09961.HK",
+      "weight_pct": 0.65
     },
     {
       "id": 692,
@@ -1074,7 +1146,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "00005.HK"
+      "display_code": "00005.HK",
+      "weight_pct": 8.3
     },
     {
       "id": 693,
@@ -1092,7 +1165,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "00316.HK"
+      "display_code": "00316.HK",
+      "weight_pct": 0.12
     },
     {
       "id": 694,
@@ -1110,7 +1184,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "02382.HK"
+      "display_code": "02382.HK",
+      "weight_pct": 0.29
     },
     {
       "id": 695,
@@ -1128,7 +1203,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "09633.HK"
+      "display_code": "09633.HK",
+      "weight_pct": 0.48
     },
     {
       "id": 696,
@@ -1146,7 +1222,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "01038.HK"
+      "display_code": "01038.HK",
+      "weight_pct": 0.25
     },
     {
       "id": 697,
@@ -1164,7 +1241,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "00688.HK"
+      "display_code": "00688.HK",
+      "weight_pct": 0.29
     },
     {
       "id": 698,
@@ -1182,7 +1260,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "01209.HK"
+      "display_code": "01209.HK",
+      "weight_pct": 0.16
     },
     {
       "id": 699,
@@ -1200,7 +1279,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "00285.HK"
+      "display_code": "00285.HK",
+      "weight_pct": 0.12
     },
     {
       "id": 700,
@@ -1218,7 +1298,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "02388.HK"
+      "display_code": "02388.HK",
+      "weight_pct": 1.13
     },
     {
       "id": 702,
@@ -1236,7 +1317,8 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "02269.HK"
+      "display_code": "02269.HK",
+      "weight_pct": 1.13
     },
     {
       "id": 706,
@@ -1254,9 +1336,26 @@
       "diverge": false,
       "method": "thin_fallback",
       "thin": true,
-      "display_code": "00992.HK"
+      "display_code": "00992.HK",
+      "weight_pct": 1.42
     }
   ],
+  "index": {
+    "as_of": "2026-09-09",
+    "stale": true,
+    "error": null,
+    "official_n": null,
+    "n_weights": 95,
+    "weight_sum": 99.96,
+    "weight_sum_used": 48.26,
+    "coverage_pct": 48.3,
+    "n_weighted": 26,
+    "weighted_score": 4.6,
+    "hsi_bar_score": -0.2,
+    "hsi_bar_thin": false,
+    "index_score": 2.2,
+    "method": "avg_weighted_hsi_bar"
+  },
   "labels": [
     {
       "source": "guba",
